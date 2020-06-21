@@ -1,5 +1,5 @@
 title: E2C
-description: Energy Efficient Fault Tolerant Distributed Protocols
+description: Fault Tolerant Energy Efficient Consensus Protocols
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-architect

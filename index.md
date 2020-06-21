@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Full Version of Paper [here](assets/docs/E2C_FullVersion.pdf)
+Link to full paper: [here](assets/docs/E2C.pdf)
